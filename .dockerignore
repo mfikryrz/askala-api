@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+*.db
+lessons/
+venv/
+.git/
+.DS_Store
