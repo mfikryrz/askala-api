@@ -1,0 +1,47 @@
+# === Environment and Web Interface ===
+python-dotenv==1.1.1
+streamlit==1.46.1
+fastapi==0.116.1
+uvicorn==0.35.0
+
+# === Langchain Core & Modules ===
+langchain==0.3.26
+langchain-core==0.3.68
+langchain-community==0.3.27
+langchain-ollama==0.3.4
+langchain-groq==0.3.6
+langchain-huggingface==0.3.0
+langchain-text-splitters==0.3.8
+
+# === Embeddings & Vector Store ===
+faiss-cpu==1.11.0
+sentence-transformers==5.0.0
+huggingface-hub==0.33.4
+ollama==0.5.1
+
+# === Markdown & Loader ===
+unstructured==0.18.5
+unstructured-client==0.38.1
+beautifulsoup4==4.13.4
+markdown==3.8.2
+
+# === Backend Support ===
+aiofiles==24.1.0
+httpx==0.28.1
+requests==2.32.4
+
+# === Others (Langchain Dependencies) ===
+pydantic==2.11.7
+typing-extensions==4.14.1
+protobuf==6.31.1
+tenacity==9.1.2
+
+# === Optional: Logging, Utils, etc. ===
+coloredlogs==15.0.1
+emoji==2.14.1
+tqdm==4.67.1
+numpy==2.2.6
+pandas==2.3.1
+regex==2024.11.6
+
+streamlit
